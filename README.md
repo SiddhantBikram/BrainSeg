@@ -10,10 +10,7 @@
 <h6 align="center">Ground Truths vs Predictions</h6>
 <br>
 
-This program uses a U-Net model for 3D brain tumor segmentation in multimodal MRI images from the BraTS2020 dataset. It uses a 3D autoencoder to extract representations from segmented images and feed this data to an SVR model to predict the age and number of days of survival of patients.
-
-
-
+This program uses a U-Net model for 3D brain tumor segmentation in multimodal MRI images from the BraTS2020 dataset. It uses a 3D autoencoder to extract representations from segmented images and feeds this data to an SVR model to predict the age and number of days of survival of patients.
 
 Thank you! If you have any questions, please feel free to reach out to siddhantshah3000@gmail.com
 <br>
