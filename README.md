@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="output.png" height = "182" width="600" title="hover text">
+  <img src="output.png" height = "273" width="900" title="hover text">
 </p>
 
 <h6 align="center">Ground Truths vs Predictions</h6>
